@@ -1,0 +1,18 @@
+C:\Student Information System-C#\StudentInformationSystem.Entity\StudentInformationSystem.Entity\bin\Debug\StudentInformationSystem.Entity.dll
+C:\Student Information System-C#\StudentInformationSystem.Entity\StudentInformationSystem.Entity\bin\Debug\StudentInformationSystem.Entity.pdb
+C:\Student Information System-C#\StudentInformationSystem.Entity\StudentInformationSystem.Entity\obj\Debug\StudentInformationSystem.Entity.csproj.AssemblyReference.cache
+C:\Student Information System-C#\StudentInformationSystem.Entity\StudentInformationSystem.Entity\obj\Debug\StudentInformationSystem.Entity.csproj.CoreCompileInputs.cache
+C:\Student Information System-C#\StudentInformationSystem.Entity\StudentInformationSystem.Entity\obj\Debug\StudentInformationSystem.Entity.dll
+C:\Student Information System-C#\StudentInformationSystem.Entity\StudentInformationSystem.Entity\obj\Debug\StudentInformationSystem.Entity.pdb
+C:\Student Information System\C#\Student Information System-C#\StudentInformationSystem.Entity\StudentInformationSystem.Entity\bin\Debug\StudentInformationSystem.Entity.dll
+C:\Student Information System\C#\Student Information System-C#\StudentInformationSystem.Entity\StudentInformationSystem.Entity\bin\Debug\StudentInformationSystem.Entity.pdb
+C:\Student Information System\C#\Student Information System-C#\StudentInformationSystem.Entity\StudentInformationSystem.Entity\obj\Debug\StudentInformationSystem.Entity.csproj.AssemblyReference.cache
+C:\Student Information System\C#\Student Information System-C#\StudentInformationSystem.Entity\StudentInformationSystem.Entity\obj\Debug\StudentInformationSystem.Entity.csproj.CoreCompileInputs.cache
+C:\Student Information System\C#\Student Information System-C#\StudentInformationSystem.Entity\StudentInformationSystem.Entity\obj\Debug\StudentInformationSystem.Entity.dll
+C:\Student Information System\C#\Student Information System-C#\StudentInformationSystem.Entity\StudentInformationSystem.Entity\obj\Debug\StudentInformationSystem.Entity.pdb
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\Student Information System-C#\StudentInformationSystem.Entity\StudentInformationSystem.Entity\bin\Debug\StudentInformationSystem.Entity.dll
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\Student Information System-C#\StudentInformationSystem.Entity\StudentInformationSystem.Entity\bin\Debug\StudentInformationSystem.Entity.pdb
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\Student Information System-C#\StudentInformationSystem.Entity\StudentInformationSystem.Entity\obj\Debug\StudentInformationSystem.Entity.csproj.AssemblyReference.cache
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\Student Information System-C#\StudentInformationSystem.Entity\StudentInformationSystem.Entity\obj\Debug\StudentInformationSystem.Entity.csproj.CoreCompileInputs.cache
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\Student Information System-C#\StudentInformationSystem.Entity\StudentInformationSystem.Entity\obj\Debug\StudentInformationSystem.Entity.dll
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\Student Information System-C#\StudentInformationSystem.Entity\StudentInformationSystem.Entity\obj\Debug\StudentInformationSystem.Entity.pdb
