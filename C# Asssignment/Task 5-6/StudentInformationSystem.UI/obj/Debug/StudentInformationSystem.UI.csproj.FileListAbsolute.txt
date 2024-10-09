@@ -1,0 +1,36 @@
+C:\Student Information System-C#\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.UI.exe.config
+C:\Student Information System-C#\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.UI.exe
+C:\Student Information System-C#\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.UI.pdb
+C:\Student Information System-C#\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.BusinessLayer.dll
+C:\Student Information System-C#\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.Entity.dll
+C:\Student Information System-C#\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.BusinessLayer.pdb
+C:\Student Information System-C#\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.Entity.pdb
+C:\Student Information System-C#\StudentInformationSystem.UI\obj\Debug\StudentInformationSystem.UI.csproj.AssemblyReference.cache
+C:\Student Information System-C#\StudentInformationSystem.UI\obj\Debug\StudentInformationSystem.UI.csproj.CoreCompileInputs.cache
+C:\Student Information System-C#\StudentInformationSystem.UI\obj\Debug\StudentI.AD107B09.Up2Date
+C:\Student Information System-C#\StudentInformationSystem.UI\obj\Debug\StudentInformationSystem.UI.exe
+C:\Student Information System-C#\StudentInformationSystem.UI\obj\Debug\StudentInformationSystem.UI.pdb
+C:\Student Information System\C#\Student Information System-C#\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.UI.exe.config
+C:\Student Information System\C#\Student Information System-C#\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.UI.exe
+C:\Student Information System\C#\Student Information System-C#\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.UI.pdb
+C:\Student Information System\C#\Student Information System-C#\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.BusinessLayer.dll
+C:\Student Information System\C#\Student Information System-C#\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.Entity.dll
+C:\Student Information System\C#\Student Information System-C#\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.BusinessLayer.pdb
+C:\Student Information System\C#\Student Information System-C#\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.Entity.pdb
+C:\Student Information System\C#\Student Information System-C#\StudentInformationSystem.UI\obj\Debug\StudentInformationSystem.UI.csproj.AssemblyReference.cache
+C:\Student Information System\C#\Student Information System-C#\StudentInformationSystem.UI\obj\Debug\StudentInformationSystem.UI.csproj.CoreCompileInputs.cache
+C:\Student Information System\C#\Student Information System-C#\StudentInformationSystem.UI\obj\Debug\StudentI.AD107B09.Up2Date
+C:\Student Information System\C#\Student Information System-C#\StudentInformationSystem.UI\obj\Debug\StudentInformationSystem.UI.exe
+C:\Student Information System\C#\Student Information System-C#\StudentInformationSystem.UI\obj\Debug\StudentInformationSystem.UI.pdb
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\Student Information System-C#\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.UI.exe.config
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\Student Information System-C#\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.UI.exe
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\Student Information System-C#\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.UI.pdb
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\Student Information System-C#\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.BusinessLayer.dll
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\Student Information System-C#\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.Entity.dll
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\Student Information System-C#\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.BusinessLayer.pdb
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\Student Information System-C#\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.Entity.pdb
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\Student Information System-C#\StudentInformationSystem.UI\obj\Debug\StudentInformationSystem.UI.csproj.AssemblyReference.cache
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\Student Information System-C#\StudentInformationSystem.UI\obj\Debug\StudentInformationSystem.UI.csproj.CoreCompileInputs.cache
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\Student Information System-C#\StudentInformationSystem.UI\obj\Debug\StudentI.AD107B09.Up2Date
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\Student Information System-C#\StudentInformationSystem.UI\obj\Debug\StudentInformationSystem.UI.exe
+C:\Users\parab\OneDrive\Desktop\Hexaware\Hexa Training\C#\Student Information System-C#\StudentInformationSystem.UI\obj\Debug\StudentInformationSystem.UI.pdb
