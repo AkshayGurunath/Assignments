@@ -1,0 +1,7 @@
+C:\Student Information System\Task 11\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+C:\Student Information System\Task 11\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe
+C:\Student Information System\Task 11\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.pdb
+C:\Student Information System\Task 11\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.csproj.AssemblyReference.cache
+C:\Student Information System\Task 11\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.csproj.CoreCompileInputs.cache
+C:\Student Information System\Task 11\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+C:\Student Information System\Task 11\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
