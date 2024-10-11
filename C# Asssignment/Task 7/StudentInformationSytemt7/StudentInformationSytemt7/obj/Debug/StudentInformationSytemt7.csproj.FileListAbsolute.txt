@@ -1,0 +1,7 @@
+D:\StudentInformationSytemt7\StudentInformationSytemt7\bin\Debug\StudentInformationSytemt7.exe.config
+D:\StudentInformationSytemt7\StudentInformationSytemt7\bin\Debug\StudentInformationSytemt7.exe
+D:\StudentInformationSytemt7\StudentInformationSytemt7\bin\Debug\StudentInformationSytemt7.pdb
+D:\StudentInformationSytemt7\StudentInformationSytemt7\obj\Debug\StudentInformationSytemt7.csproj.AssemblyReference.cache
+D:\StudentInformationSytemt7\StudentInformationSytemt7\obj\Debug\StudentInformationSytemt7.csproj.CoreCompileInputs.cache
+D:\StudentInformationSytemt7\StudentInformationSytemt7\obj\Debug\StudentInformationSytemt7.exe
+D:\StudentInformationSytemt7\StudentInformationSytemt7\obj\Debug\StudentInformationSytemt7.pdb
