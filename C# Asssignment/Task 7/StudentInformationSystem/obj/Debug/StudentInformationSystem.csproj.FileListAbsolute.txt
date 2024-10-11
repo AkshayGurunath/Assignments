@@ -1,2 +1,0 @@
-C:\Student Information System\Task 7\StudentInformationSystem\obj\Debug\StudentInformationSystem.csproj.AssemblyReference.cache
-C:\Student Information System\Task 7\StudentInformationSystem\obj\Debug\StudentInformationSystem.csproj.CoreCompileInputs.cache
